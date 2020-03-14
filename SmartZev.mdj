@@ -18370,7 +18370,7 @@
 													"height": 52,
 													"autoResize": false,
 													"underline": false,
-													"text": "Potvrda registracije etaznog vlasnika",
+													"text": "Potvrda registracije etažnog vlasnika",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": true
@@ -19527,7 +19527,7 @@
 													"height": 39,
 													"autoResize": false,
 													"underline": false,
-													"text": "Konfigurisanje periodicnih obracuna",
+													"text": "Konfigurisanje periodičnih obračuna",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": true
@@ -22471,7 +22471,7 @@
 													"height": 26,
 													"autoResize": false,
 													"underline": false,
-													"text": "Unos pristiglih racuna",
+													"text": "Unos pristiglih računa",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": true
@@ -23207,7 +23207,7 @@
 													"height": 39,
 													"autoResize": false,
 													"underline": false,
-													"text": "Generisanje mjesecnog obracuna",
+													"text": "Generisanje mjesečnog obračuna",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": true
@@ -23522,7 +23522,7 @@
 													"height": 39,
 													"autoResize": false,
 													"underline": false,
-													"text": "Generisanje pojedinacnog obracuna",
+													"text": "Generisanje pojedinačnog obračuna",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": true
@@ -23837,7 +23837,7 @@
 													"height": 39,
 													"autoResize": false,
 													"underline": false,
-													"text": "Generisanje ukupnog obracuna",
+													"text": "Generisanje ukupnog obračuna",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": true
@@ -24859,7 +24859,7 @@
 													"height": 39,
 													"autoResize": false,
 													"underline": false,
-													"text": "Generisanje godisnjeg izvjestaja",
+													"text": "Generisanje godišnjeg izvještaja",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": true
@@ -25590,12 +25590,12 @@
 													"containerChangeable": false,
 													"containerExtending": false,
 													"left": 390.5,
-													"top": 209,
+													"top": 215.5,
 													"width": 113,
-													"height": 39,
+													"height": 26,
 													"autoResize": false,
 													"underline": false,
-													"text": "Pregled trenutnog stanja prihoda i rashoda",
+													"text": "Pregled trenutnog stanja računa",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": true
@@ -25662,9 +25662,9 @@
 											"containerChangeable": false,
 											"containerExtending": false,
 											"left": 385.5,
-											"top": 202,
+											"top": 208.5,
 											"width": 123,
-											"height": 51,
+											"height": 38,
 											"autoResize": false,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAFw1EZvpxMHMRc="
@@ -26331,7 +26331,7 @@
 													"height": 39,
 													"autoResize": false,
 													"underline": false,
-													"text": "Generisanje vanrednih izvjestaja",
+													"text": "Generisanje vanrednih izvještaja",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": true
@@ -27067,7 +27067,7 @@
 													"height": 26,
 													"autoResize": false,
 													"underline": false,
-													"text": "Evidentiranje placanja",
+													"text": "Evidentiranje plaćanja",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": true
@@ -28321,7 +28321,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFw1CFqo+zKOhM="
 							},
-							"name": "Potvrda registracije etaznog vlasnika",
+							"name": "Potvrda registracije etažnog vlasnika",
 							"visibility": "public",
 							"isAbstract": false,
 							"isFinalSpecialization": false,
@@ -28333,7 +28333,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFw1CFqo+zKOhM="
 							},
-							"name": "Konfigurisanje periodicnih obracuna",
+							"name": "Konfigurisanje periodičnih obračuna",
 							"visibility": "public",
 							"isAbstract": false,
 							"isFinalSpecialization": false,
@@ -28381,7 +28381,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFw1CFqo+zKOhM="
 							},
-							"name": "Unos pristiglih racuna",
+							"name": "Unos pristiglih računa",
 							"visibility": "public",
 							"isAbstract": false,
 							"isFinalSpecialization": false,
@@ -28393,7 +28393,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFw1CFqo+zKOhM="
 							},
-							"name": "Generisanje mjesecnog obracuna",
+							"name": "Generisanje mjesečnog obračuna",
 							"visibility": "public",
 							"isAbstract": false,
 							"isFinalSpecialization": false,
@@ -28405,7 +28405,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFw1CFqo+zKOhM="
 							},
-							"name": "Generisanje pojedinacnog obracuna",
+							"name": "Generisanje pojedinačnog obračuna",
 							"ownedElements": [
 								{
 									"_type": "UMLGeneralization",
@@ -28433,7 +28433,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFw1CFqo+zKOhM="
 							},
-							"name": "Generisanje ukupnog obracuna",
+							"name": "Generisanje ukupnog obračuna",
 							"ownedElements": [
 								{
 									"_type": "UMLGeneralization",
@@ -28461,7 +28461,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFw1CFqo+zKOhM="
 							},
-							"name": "Generisanje godisnjeg izvjestaja",
+							"name": "Generisanje godišnjeg izvještaja",
 							"visibility": "public",
 							"isAbstract": false,
 							"isFinalSpecialization": false,
@@ -28473,7 +28473,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFw1CFqo+zKOhM="
 							},
-							"name": "Pregled trenutnog stanja prihoda i rashoda",
+							"name": "Pregled trenutnog stanja računa",
 							"visibility": "public",
 							"isAbstract": false,
 							"isFinalSpecialization": false,
@@ -28485,7 +28485,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFw1CFqo+zKOhM="
 							},
-							"name": "Generisanje vanrednih izvjestaja",
+							"name": "Generisanje vanrednih izvještaja",
 							"visibility": "public",
 							"isAbstract": false,
 							"isFinalSpecialization": false,
@@ -28497,7 +28497,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFw1CFqo+zKOhM="
 							},
-							"name": "Evidentiranje placanja",
+							"name": "Evidentiranje plaćanja",
 							"visibility": "public",
 							"isAbstract": false,
 							"isFinalSpecialization": false,
