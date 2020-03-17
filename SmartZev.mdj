@@ -22988,7 +22988,7 @@
 																		"$ref": "AAAAAAFw5Gm0s2DCj7s="
 																	},
 																	"font": "Arial;13;0",
-																	"left": 485,
+																	"left": 477,
 																	"top": 429,
 																	"width": 148.103515625,
 																	"height": 13,
@@ -23001,11 +23001,11 @@
 																		"$ref": "AAAAAAFw5Gm0s2DCj7s="
 																	},
 																	"font": "Arial;13;1",
-																	"left": 485,
+																	"left": 477,
 																	"top": 444,
 																	"width": 148.103515625,
 																	"height": 13,
-																	"text": "Baza korisničkih naloga"
+																	"text": "Korisnički nalozi"
 																},
 																{
 																	"_type": "LabelView",
@@ -23015,7 +23015,7 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": -256,
+																	"left": -272,
 																	"width": 86.6708984375,
 																	"height": 13,
 																	"text": "(from Activity1)"
@@ -23028,13 +23028,13 @@
 																	},
 																	"visible": false,
 																	"font": "Arial;13;0",
-																	"left": -256,
+																	"left": -272,
 																	"height": 13,
 																	"horizontalAlignment": 1
 																}
 															],
 															"font": "Arial;13;0",
-															"left": 480,
+															"left": 472,
 															"top": 424,
 															"width": 158.103515625,
 															"height": 38,
@@ -23054,7 +23054,7 @@
 													],
 													"font": "Arial;13;0",
 													"containerChangeable": true,
-													"left": 480,
+													"left": 472,
 													"top": 424,
 													"width": 158.103515625,
 													"height": 38,
@@ -23188,7 +23188,7 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": 571,
+															"left": 566,
 															"top": 471,
 															"height": 13,
 															"alpha": 1.5707963267948966,
@@ -23209,7 +23209,7 @@
 															},
 															"visible": null,
 															"font": "Arial;13;0",
-															"left": 586,
+															"left": 581,
 															"top": 471,
 															"height": 13,
 															"alpha": 1.5707963267948966,
@@ -23230,7 +23230,7 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": 542,
+															"left": 537,
 															"top": 472,
 															"height": 13,
 															"alpha": -1.5707963267948966,
@@ -23248,7 +23248,7 @@
 													"tail": {
 														"$ref": "AAAAAAFw5Gm0s2DByaI="
 													},
-													"points": "557:461;557:496",
+													"points": "552:461;552:496",
 													"showVisibility": true,
 													"nameLabel": {
 														"$ref": "AAAAAAFw5Gpa5GDjhvc="
@@ -23912,7 +23912,7 @@
 																	"top": 996,
 																	"width": 148.103515625,
 																	"height": 13,
-																	"text": "Baza korisničkih naloga"
+																	"text": "Korisnički nalozi"
 																},
 																{
 																	"_type": "LabelView",
@@ -24185,7 +24185,7 @@
 											"_parent": {
 												"$ref": "AAAAAAFw5FsDcl1mOLM="
 											},
-											"name": "Baza korisničkih naloga",
+											"name": "Korisnički nalozi",
 											"ordering": "FIFO"
 										},
 										{
@@ -24583,7 +24583,7 @@
 													"_parent": {
 														"$ref": "AAAAAAFw5FuZ914fZc0="
 													},
-													"name": "Baza korisničkih naloga",
+													"name": "Korisnički nalozi",
 													"ordering": "FIFO"
 												}
 											]
@@ -25169,7 +25169,7 @@
 																	"top": 711,
 																	"width": 103,
 																	"height": 26,
-																	"text": "Prikaz pocetne strane",
+																	"text": "Prikaz početne strane",
 																	"wordWrap": true
 																},
 																{
@@ -25395,7 +25395,7 @@
 																	"top": 500,
 																	"width": 148.103515625,
 																	"height": 13,
-																	"text": "Baza korisničkih naloga"
+																	"text": "Korisnički nalozi"
 																},
 																{
 																	"_type": "LabelView",
@@ -25872,8 +25872,8 @@
 																"$ref": "AAAAAAFw5HFCemkEbOU="
 															},
 															"font": "Arial;13;0",
-															"left": 543,
-															"top": 630,
+															"left": 544,
+															"top": 633,
 															"width": 77.33349609375,
 															"height": 13,
 															"alpha": 1.8281197984277333,
@@ -25896,7 +25896,7 @@
 															"visible": null,
 															"font": "Arial;13;0",
 															"left": 573,
-															"top": 640,
+															"top": 642,
 															"height": 13,
 															"alpha": 1.5707963267948966,
 															"distance": 30,
@@ -25917,7 +25917,7 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": 529,
-															"top": 642,
+															"top": 643,
 															"height": 13,
 															"alpha": -1.5707963267948966,
 															"distance": 15,
@@ -25934,8 +25934,7 @@
 													"tail": {
 														"$ref": "AAAAAAFw5G4rdmg/bKA="
 													},
-													"lineStyle": 1,
-													"points": "631:649;544:648;546:703",
+													"points": "632:649;544:649;544:704",
 													"showVisibility": true,
 													"nameLabel": {
 														"$ref": "AAAAAAFw5HFCemkGBxk="
@@ -25967,8 +25966,8 @@
 																"$ref": "AAAAAAFw5HFLG2kVrvg="
 															},
 															"font": "Arial;13;0",
-															"left": 663,
-															"top": 628,
+															"left": 662,
+															"top": 632,
 															"width": 62.87353515625,
 															"height": 13,
 															"alpha": -1.8490962398431543,
@@ -25991,7 +25990,7 @@
 															"visible": null,
 															"font": "Arial;13;0",
 															"left": 757,
-															"top": 644,
+															"top": 642,
 															"height": 13,
 															"alpha": 1.5707963267948966,
 															"distance": 30,
@@ -26012,7 +26011,7 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": 713,
-															"top": 640,
+															"top": 643,
 															"height": 13,
 															"alpha": -1.5707963267948966,
 															"distance": 15,
@@ -26029,8 +26028,7 @@
 													"tail": {
 														"$ref": "AAAAAAFw5G4rdmg/bKA="
 													},
-													"lineStyle": 1,
-													"points": "655:649;728:648;723:703",
+													"points": "654:649;728:649;728:704",
 													"showVisibility": true,
 													"nameLabel": {
 														"$ref": "AAAAAAFw5HFLG2kXGkA="
@@ -26063,7 +26061,7 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": 679,
+															"left": 681,
 															"top": 793,
 															"height": 13,
 															"alpha": 1.5707963267948966,
@@ -26084,7 +26082,7 @@
 															},
 															"visible": null,
 															"font": "Arial;13;0",
-															"left": 679,
+															"left": 681,
 															"top": 808,
 															"height": 13,
 															"alpha": 1.5707963267948966,
@@ -26105,7 +26103,7 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"left": 680,
+															"left": 682,
 															"top": 763,
 															"height": 13,
 															"alpha": -1.5707963267948966,
@@ -26123,8 +26121,7 @@
 													"tail": {
 														"$ref": "AAAAAAFw5G4N4GgN+tk="
 													},
-													"lineStyle": 1,
-													"points": "716:758;712:784;648:784;645:855",
+													"points": "716:757;716:784;648:784;648:856",
 													"showVisibility": true,
 													"nameLabel": {
 														"$ref": "AAAAAAFw5HFWlWko54w="
@@ -26575,7 +26572,7 @@
 											"_parent": {
 												"$ref": "AAAAAAFw5GuQKGLcKRk="
 											},
-											"name": "Prikaz pocetne strane"
+											"name": "Prikaz početne strane"
 										},
 										{
 											"_type": "UMLAction",
@@ -26806,7 +26803,7 @@
 													"_parent": {
 														"$ref": "AAAAAAFw5GySu2d1cWk="
 													},
-													"name": "Baza korisničkih naloga",
+													"name": "Korisnički nalozi",
 													"ordering": "FIFO"
 												},
 												{
