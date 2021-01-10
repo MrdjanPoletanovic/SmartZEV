@@ -1,0 +1,13 @@
+# SmartZEV
+ Na putanji SmartZEVApplication\database\data nalaze se skripte za kreiranje baze podataka, pogleda, testnih podataka kao i korisnika i prava pristupa. Korištena je MySQL baza, te je potrebno da postoji server na kojem se može kreirati ta baza (MySQL Server).
+ Bitno je skripte izvršiti sljedećim redoslijedom:
+ 1. Skripta.sql
+ 2. views.sql
+ 3. user_and_grants.sql
+ 4. BazaPrava.sql
+ Da bi aplikacija ispravno radila, potrebno je instalirati i MongoDB, jer se ta baza koristi za čuvanje generisanih dokumenata.
+ Ovaj projekat je napravljen kao multi-module Maven projekat, te ga je tako i potrebno otvoriti u okruženju (pri implementaciji korišten IntelliJ Idea).
+ Zatim se izvrsava maven komanda (maven komanda: mvn clean install) i podizanje servera ( rest modul, Plugins, komande war:war i cargo:run).
+ Pokretanje klijentske aplikacije radi se preko view modula, Plugins te javafx:run.
+ Da bi se proces pojednostavio omogućeno je pokretanje klijentske aplikacije, korištenjem samo .jar fajla koji se nalazi u projektu.
+ Za svakog korisnika je lozinka "user", a za svakog administratora "admin".
